@@ -1,0 +1,5 @@
+Package: adk-package
+Version: 0.1
+Architecture: amd64
+Maintainer: AdkhamSec adkhamsec@gmail.com
+Description: my custom Deb. package
